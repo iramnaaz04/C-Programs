@@ -1,4 +1,4 @@
-//Check if even or odd
+// Q2]Check if even or odd
 #include <stdio.h>
 void main(){
     int number;
