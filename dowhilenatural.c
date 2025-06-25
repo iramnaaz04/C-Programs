@@ -1,4 +1,4 @@
-// FIrst n natural numbers using do while loop
+// First n natural numbers using do while loop
 #include <stdio.h>
 void main(){
     int n;

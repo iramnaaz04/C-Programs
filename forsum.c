@@ -6,11 +6,4 @@ void main(){
         sum = sum + i;
     }
     printf("Sum of first 10 natural numbers is %d\n", sum);
-    // Alternative using while loop
-    int j = 1, total = 0;
-    while(j <= 10){
-        total = total + j;
-        j++;
-    }
-    printf("Sum of first 10 natural numbers is %d\n", total);
 }

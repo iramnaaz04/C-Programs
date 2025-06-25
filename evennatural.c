@@ -9,7 +9,7 @@ void main() {
 
     while(i <= n) {
         if(i % 2 == 0) {
-            printf("%d ", i);
+            printf("\t%d\n ", i);
         }
         i++;
     }
