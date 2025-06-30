@@ -16,4 +16,5 @@ int main(){
     else{
         printf("%d is not a natural number\n", no);
     }
+    return 0;
 }

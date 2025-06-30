@@ -1,8 +1,8 @@
+// String declare and print
 #include <stdio.h>
-int main(){
-   // char name[]={'I' , 'R', 'A', 'M', 'N', 'A', 'A', 'Z','\0'};
-    char name[]="Iramnaaz";
-
-    //char class[]={'C', 'O', 'D', 'E'};
-    char class[]="CODE";
+void main(){
+    char str[20];
+    printf("Enter a string: ");
+    scanf("%s", str);
+    printf("You entered: %s\n", str);
 }
